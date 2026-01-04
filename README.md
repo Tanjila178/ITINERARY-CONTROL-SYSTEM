@@ -9,6 +9,7 @@ For Example: C:\xampp\htdocs
 
 3.Database Configuration
 
+
 Open PHPMyAdmin
 Create Database tms
 Import database tms.sql (available inside the zip package)
